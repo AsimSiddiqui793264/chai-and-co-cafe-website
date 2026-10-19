@@ -3,7 +3,7 @@
 A fully responsive 8-page cafe website built with **HTML5** and **CSS3** for the Web Engineering course assignment.
 
 ## Live Demo
-https://<your-username>.github.io/chai-and-co-cafe-website/
+https://chai-and-co-cafe-website.vercel.app/
 
 ## Pages
 | Page | File | Description |
@@ -48,7 +48,7 @@ chai-and-co-cafe-website/
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/chai-and-co-cafe-website.git
+   git clone https://github.com/AsimSiddiqui793264/chai-and-co-cafe-website.git
    ```
 2. Open the folder and double-click `index.html` in any browser.
 
